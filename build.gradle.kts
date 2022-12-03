@@ -8,7 +8,7 @@ repositories {
 }
 
 application {
-    mainClass.set("Day02Kt") 
+    mainClass.set("Day03Kt") 
 }
 
 tasks {
